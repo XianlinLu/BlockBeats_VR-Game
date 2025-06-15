@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @XianlinLu
-- 👀 I’m interested in motion graphic and interaction
-- 🌱 I’m currently learning interaction design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me www.linkedin.com/in/xianlin-lu-182719204
+# BlockBeats
 
-<!---
-XianlinLu/XianlinLu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Musicraft is a VR music game and content creation platform that empowers you to create your own music as well as build your own experienceable architecture. Featuring fantastical architectural visuals, professional music tracks, Musicraft delivers a brand new audio-visual experience.
+
+Demo Video: https://vimeo.com/777476170
+
+![image](https://github.com/ariaxxxi/BlockBeats_VRGame/assets/87568028/99ab5180-ea7f-4014-a6ab-343c753c0a8d)
