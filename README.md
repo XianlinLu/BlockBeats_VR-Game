@@ -4,4 +4,4 @@ Musicraft is a VR music game and content creation platform that empowers you to 
 
 Demo Video: https://www.youtube.com/watch?v=j1y8ds-vQjc
 
-![image](https://github.com/ariaxxxi/BlockBeats_VRGame/assets/87568028/99ab5180-ea7f-4014-a6ab-343c753c0a8d)
+![thumbnail](https://github.com/user-attachments/assets/92ca7bd6-4dcd-4a11-951b-cc06d38a7e2a)
